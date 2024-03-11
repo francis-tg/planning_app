@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/francis-tg/planning_app_client.git
